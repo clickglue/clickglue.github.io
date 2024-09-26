@@ -67,3 +67,5 @@ I need to learn a lot of basic CSS still. And these standard practices like CSS 
 ## Acknowledgments
 
 Thanks Grace for the detailed comments on another solution.
+
+One question though: you suggested in another review that it would be good not to use a H1, because this is probably a component. However, the automatic review suggests: "Ensure that the page or at least one of its frames contains a level-one heading."
