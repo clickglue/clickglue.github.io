@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-[Screenshot of my solution at clickglue.github.io](images/Scherm­afbeelding 2024-09-26 om 23.36.44.png)
+[Screenshot of my solution at clickglue.github.io](/images/Scherm­afbeelding 2024-09-26 om 23.36.44.png)
 
 
 ### Links
